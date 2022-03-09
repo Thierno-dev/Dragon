@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1635947274 source:/home/diallo/Bureau/Synthese_d_image/Dragon/Dragon.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<jpeglib.h>
+	<jerror.h>
+	<string>
+	<cmath>
+	<math.h>
+
+1635949659 source:/home/diallo/Bureau/Systeme_Reseaux/Dragon/Dragon.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<jpeglib.h>
+	<jerror.h>
+	<string>
+	<cmath>
+	<math.h>
+
+1635957756 source:/home/diallo/Bureau/Systeme_Reseaux/Dragon/dragon.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<jpeglib.h>
+	<jerror.h>
+	<string>
+	<cmath>
+	<math.h>
+
+1636410642 source:/home/force-badname/Bureau/ProjetSynthese/Dragon/dragon.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<jpeglib.h>
+	<jerror.h>
+	<string>
+	<cmath>
+	<math.h>
+
